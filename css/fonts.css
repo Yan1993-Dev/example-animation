@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "YS Display";
+    src: url("../fonts/YandexSansDisplay-Thin.woff2") format("woff2"),
+    url("../fonts/YandexSansDisplay-Thin.woff") format("woff");
+    font-weight: thin;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "YS Display";
+    src: url("../fonts/YandexSansDisplay-Bold.woff2") format("woff2"),
+    url("../fonts/YandexSansDisplay-Bold.woff2") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "YS Display";
+    src: url("../fonts/YandexSansDisplay-Regular.woff2") format("woff2"),
+    url("../fonts/YandexSansDisplay-Regular.woff2") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
